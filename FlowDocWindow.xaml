@@ -1,0 +1,60 @@
+﻿<Window x:Class="DesignerClientApplication.FlowDocWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesignerClientApplication"
+        mc:Ignorable="d"
+        Title="FlowDocWindow" Height="900" Width="650">
+    <Grid>
+        <FlowDocumentReader>
+            <FlowDocument Name="ClientFlowDoc">
+                <BlockUIContainer>
+                    <Button Content="Print PDF" Click="ButtonClick" ToolTip="Select Microsoft Print to PDF to create PDF"></Button>
+                </BlockUIContainer>
+
+                <Section Background="Beige">
+                    <Paragraph></Paragraph>
+                    <Paragraph Name="pName">
+                        <Bold>Name: </Bold>
+                    </Paragraph>
+                    <Paragraph Name="pAddress">
+                        <Bold>Address: </Bold>
+                    </Paragraph>
+                    <Paragraph Name="pPhone">
+                        <Bold>Phone: </Bold>
+                    </Paragraph>
+                    <Paragraph Name="pEmail">
+                        <Bold>Email: </Bold>
+                    </Paragraph>
+
+
+                    <Paragraph>
+                        <Bold>Floor Plan</Bold>
+                    </Paragraph>
+
+
+                    <Paragraph></Paragraph>
+                    
+
+                </Section>
+
+                <Paragraph>
+                    <Bold>Floor Plan</Bold>
+                </Paragraph>
+
+
+                <Section>
+
+                    <Paragraph Name="pFloorPlan">
+                        <Image Name="pFloorPlanImg" Height="450" Width="500"/>
+                    </Paragraph>
+                    
+
+                </Section>
+                
+            </FlowDocument>
+        </FlowDocumentReader>
+        
+    </Grid>
+</Window>

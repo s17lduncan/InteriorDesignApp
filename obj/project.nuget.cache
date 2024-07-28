@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zhIM3LkG5zqNydU7xF2jfYOkAjZ3qYLGUG2MybLisVdHcofF8R2vSuMmg5KTrcz0y3fi4X/Dne33zFrrKuHdA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\C#_Coursework\\DesignerClientApplication\\DesignerClientApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukasduncan\\.nuget\\packages\\syncfusion.compression.base\\26.1.35\\syncfusion.compression.base.26.1.35.nupkg.sha512",
+    "C:\\Users\\lukasduncan\\.nuget\\packages\\syncfusion.licensing\\26.1.35\\syncfusion.licensing.26.1.35.nupkg.sha512",
+    "C:\\Users\\lukasduncan\\.nuget\\packages\\syncfusion.pdf.wpf\\26.1.35\\syncfusion.pdf.wpf.26.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

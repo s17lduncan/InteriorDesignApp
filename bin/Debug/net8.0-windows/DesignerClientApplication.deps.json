@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesignerClientApplication/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Pdf.Wpf": "26.1.35"
+        },
+        "runtime": {
+          "DesignerClientApplication.dll": {}
+        }
+      },
+      "Syncfusion.Compression.Base/26.1.35": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "26.1.35.0",
+            "fileVersion": "26.1.35.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/26.1.35": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "26.1.35.0",
+            "fileVersion": "26.1.35.0"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Wpf/26.1.35": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "26.1.35",
+          "Syncfusion.Licensing": "26.1.35"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "26.1.35.0",
+            "fileVersion": "26.1.35.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignerClientApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Compression.Base/26.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2aJsEOmwgbCGOhBKW8A3+UXJ3UI8Qu6B9nr+FdQI6Hy7WRGpOx4NOzilc/43+fLmsEHnGpndhVpNH9mydocffg==",
+      "path": "syncfusion.compression.base/26.1.35",
+      "hashPath": "syncfusion.compression.base.26.1.35.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/26.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DPMS7ODbzaS+S2//uOMW8XL/08AEIMz/TEb113gaXdwga328ozz+4wiQGZBJzjLGglyO1vV+GTUigquDGHWcFg==",
+      "path": "syncfusion.licensing/26.1.35",
+      "hashPath": "syncfusion.licensing.26.1.35.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Wpf/26.1.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mfea1UGLK3aW/LgynZa8lX6gCjqylff45BMkQtGrlYTVDeaJA5CghfJ9ot1/9lveQRh8ysbHKEVc6tbsdsscXg==",
+      "path": "syncfusion.pdf.wpf/26.1.35",
+      "hashPath": "syncfusion.pdf.wpf.26.1.35.nupkg.sha512"
+    }
+  }
+}
