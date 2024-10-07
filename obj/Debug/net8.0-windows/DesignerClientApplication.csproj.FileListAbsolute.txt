@@ -27,3 +27,4 @@
 \\Mac\Home\Desktop\C#_Coursework\DesignerClientApplication\obj\Debug\net8.0-windows\Designer.758C1F34.Up2Date
 \\Mac\Home\Desktop\C#_Coursework\DesignerClientApplication\obj\Debug\net8.0-windows\FlowDocWindow.g.cs
 \\Mac\Home\Desktop\C#_Coursework\DesignerClientApplication\obj\Debug\net8.0-windows\FlowDocWindow.baml
+\\Mac\Home\Desktop\C#_Coursework\DesignerClientApplication\obj\Debug\net8.0-windows\DesignerClientApplication.sourcelink.json

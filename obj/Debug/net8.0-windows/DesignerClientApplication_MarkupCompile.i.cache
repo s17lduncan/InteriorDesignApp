@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 2011773435170
 ClientInfoWindow.xaml;FlowDocWindow.xaml;MainWindow.xaml;
 
-False
+True
 
