@@ -17,8 +17,13 @@ https://github.com/user-attachments/assets/427c92ae-dfbd-419c-b892-3b50d4156456
 
 1. Visual Studio
 2. Windows
-3. .Net 8.0
+3. .Net Framework 8.0
 
 ### How to Download
 
-Launch directly into visual studio or clone the project via git. Then open using the solution (sln) into Visual Studio.
+There are a few options.
+
+1. Launch directly into visual studio by going under the code button in GitHub.
+2. Clone the project via git. Use the following command: git clone https://github.com/s17lduncan/InteriorDesignApp.git
+
+Then open using the solution (sln) in Visual Studio.
